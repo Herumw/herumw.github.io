@@ -99,7 +99,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "grasstreeflower",
+        title: "GrassTreeFlower",
         href: "https://blog.csdn.net/grasstreeflower"
     },{
         title: "LJQ's Blog",
