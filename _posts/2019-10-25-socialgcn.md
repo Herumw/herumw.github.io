@@ -2,7 +2,7 @@
 layout:     post
 title:      "论文：《SocialGCN: An Efficient Graph Convolutional Network based Model for Social Recommendation》（AAAI2019）"
 subtitle:   
-date:       2019-10-14
+date:       2019-10-21
 author:     SLY
 header-img: img/post-bg-coffee.jpeg
 catalog: false
